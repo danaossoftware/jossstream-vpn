@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JossStream-VPN.iml" filepath="$PROJECT_DIR$/.idea/JossStream-VPN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iptv.iml" filepath="$PROJECT_DIR$/.idea/iptv.iml" />
     </modules>
   </component>
 </project>
